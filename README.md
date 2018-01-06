@@ -12,5 +12,5 @@ Update slic3r.ini and files in /src/slic3r for slic3r instructions to apply in s
 In project folder type `make`. 
 
 # Repos
-https://github.com/istergiou/compartment-box
-https://www.thingiverse.com/thing:2747098
+- https://github.com/istergiou/compartment-box
+- https://www.thingiverse.com/thing:2747098
